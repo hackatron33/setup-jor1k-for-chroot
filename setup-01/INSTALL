@@ -1,4 +1,5 @@
-# There two files containing the jor1k filesystem in the case there is no access to internet to download the fs from GitHub.
+# There are six bz2 files containing the jor1k filesystem in the case there is no access to internet to download the fs from jor1k's GitHub location. Download all the files in this directory into your computer and follow the next directions.
+
 # Type in: ./setup-jor1k-for-chroot-2.28-no-download
 
 # More info: github/tlacaelel2013
